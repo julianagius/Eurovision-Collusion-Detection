@@ -1,0 +1,9 @@
+From,To,Average,Sim.Threshold
+Cyprus,Greece,9,6.67
+Denmark,Norway,8.6,6
+Denmark,Sweden,6.4,5.8
+Greece,Cyprus,10.67,6.67
+Norway,Denmark,6.2,6
+Norway,Sweden,6.4,6
+Sweden,Denmark,8.2,6
+Sweden,Norway,7.8,5.8

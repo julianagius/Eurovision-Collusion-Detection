@@ -1,0 +1,1028 @@
+"To","From","Average","Sim.Threshold","2000","2001","2002","2003","2004"
+"Austria","Belgium",1,6,0,NA,0,4,0
+"Austria","Croatia",5,5.75,6,NA,6,5,3
+"Austria","Cyprus",1.5,5.51250000000002,0,NA,0,0,6
+"Austria","Denmark",5,6.5,10,NA,0,NA,NA
+"Austria","Estonia",2,6.33333333333333,3,NA,3,0,NA
+"Austria","F.Y.R. Macedonia",0,6.33333333333333,0,NA,0,NA,0
+"Austria","Finland",0,7,0,NA,0,NA,NA
+"Austria","France",0,5.75,0,NA,0,0,0
+"Austria","Germany",6,5.75,12,NA,1,1,10
+"Austria","Iceland",0,6.66666666666667,0,NA,NA,0,0
+"Austria","Ireland",1.33333333333333,6.66666666666667,4,NA,NA,0,0
+"Austria","Israel",0,6.66666666666667,0,NA,0,0,NA
+"Austria","Latvia",9,7,8,NA,10,NA,NA
+"Austria","Malta",2.5,6,2,NA,8,0,0
+"Austria","Norway",0.666666666666667,6.33333333333333,0,NA,NA,2,0
+"Austria","Romania",1.5,5.75,0,NA,0,6,0
+"Austria","Russia",3.75,5.75,7,NA,0,8,0
+"Austria","Spain",0,5.75,0,NA,0,0,0
+"Austria","Sweden",2,5.75,0,NA,4,3,1
+"Austria","Switzerland",3,7,1,NA,5,NA,NA
+"Austria","The Netherlands",0,6,0,NA,NA,0,0
+"Austria","Turkey",6.25,5.75,5,NA,0,12,8
+"Austria","United Kingdom",3,6,0,NA,12,0,0
+"Belgium","Austria",1.75,5.75,0,NA,5,2,0
+"Belgium","Croatia",0,5.5,0,NA,0,0,0
+"Belgium","Cyprus",1.75,5.75,0,NA,3,0,4
+"Belgium","Denmark",5,7.5,10,NA,0,NA,NA
+"Belgium","Estonia",2,6,2,NA,4,0,NA
+"Belgium","F.Y.R. Macedonia",0,6.66666666666667,0,NA,0,NA,0
+"Belgium","Finland",0,7.5,0,NA,0,NA,NA
+"Belgium","France",5,5.75,0,NA,10,0,10
+"Belgium","Germany",1.5,5.51250000000002,6,NA,0,0,0
+"Belgium","Iceland",1,6.33333333333333,0,NA,NA,3,0
+"Belgium","Ireland",1.66666666666667,6,4,NA,NA,1,0
+"Belgium","Israel",0.666666666666667,6.66666666666667,0,NA,2,0,NA
+"Belgium","Latvia",10,7.5,12,NA,8,NA,NA
+"Belgium","Malta",2,5.75,1,NA,7,0,0
+"Belgium","Norway",2,6.33333333333333,0,NA,NA,6,0
+"Belgium","Romania",0,5.76250000000002,0,NA,0,0,0
+"Belgium","Russia",3.5,5.76250000000002,7,NA,0,7,0
+"Belgium","Spain",7.25,5.5,0,NA,12,10,7
+"Belgium","Sweden",3,5.75,5,NA,1,4,2
+"Belgium","Switzerland",0,7.5,0,NA,0,NA,NA
+"Belgium","The Netherlands",7.33333333333333,6.66666666666667,8,NA,NA,8,6
+"Belgium","Turkey",6.75,6,3,NA,0,12,12
+"Belgium","United Kingdom",1.5,5.75,0,NA,6,0,0
+"Croatia","Austria",1.25,5.76250000000002,0,NA,0,5,0
+"Croatia","Belgium",0,5.75,0,NA,0,0,0
+"Croatia","Cyprus",4.25,5.76250000000002,3,NA,10,0,4
+"Croatia","Denmark",4,6.35000000000002,0,12,0,NA,NA
+"Croatia","Estonia",3.25,5.75,6,2,5,0,NA
+"Croatia","F.Y.R. Macedonia",6.33333333333333,6.33333333333333,10,NA,4,NA,5
+"Croatia","Finland",0,7,0,NA,0,NA,NA
+"Croatia","France",1.2,5.4,0,6,0,0,0
+"Croatia","Germany",0.6,5.6,1,1,0,0,1
+"Croatia","Iceland",1.5,6,0,0,NA,6,0
+"Croatia","Ireland",2.25,6,5,0,NA,4,0
+"Croatia","Israel",0,5.75,0,0,0,0,NA
+"Croatia","Latvia",0.666666666666667,6.66666666666667,0,0,2,NA,NA
+"Croatia","Malta",4.4,5.8,8,0,12,0,2
+"Croatia","Norway",0,5.51250000000002,0,0,NA,0,0
+"Croatia","Romania",2,6,7,NA,0,1,0
+"Croatia","Russia",4.8,5.4,12,0,0,12,0
+"Croatia","Spain",2.6,5.4,0,0,6,7,0
+"Croatia","Sweden",1.2,5.2,0,4,0,2,0
+"Croatia","Switzerland",0,7.5,0,NA,0,NA,NA
+"Croatia","The Netherlands",0.5,5.51250000000002,2,0,NA,0,0
+"Croatia","Turkey",4.6,5.4,0,7,3,10,3
+"Croatia","United Kingdom",1.4,5.2,4,3,0,0,0
+"Cyprus","Austria",1.25,5.51250000000002,0,NA,1,4,0
+"Cyprus","Belgium",1,5.76250000000002,0,NA,0,3,1
+"Cyprus","Croatia",1.5,5.75,0,NA,6,0,0
+"Cyprus","Denmark",2,7.5,4,NA,0,NA,NA
+"Cyprus","Estonia",2,6.33333333333333,6,NA,0,0,NA
+"Cyprus","F.Y.R. Macedonia",1.66666666666667,6.33333333333333,2,NA,3,NA,0
+"Cyprus","Finland",1,7.02500000000003,0,NA,2,NA,NA
+"Cyprus","France",0,5.5,0,NA,0,0,0
+"Cyprus","Germany",0,5.75,0,NA,0,0,0
+"Cyprus","Iceland",1.66666666666667,6.66666666666667,0,NA,NA,5,0
+"Cyprus","Ireland",4.66666666666667,6.33333333333333,7,NA,NA,7,0
+"Cyprus","Israel",0,6,0,NA,0,0,NA
+"Cyprus","Latvia",2.5,7.02500000000003,1,NA,4,NA,NA
+"Cyprus","Malta",4.5,5.75,8,NA,10,0,0
+"Cyprus","Norway",0,6.66666666666667,0,NA,NA,0,0
+"Cyprus","Romania",3.25,5.5,0,NA,8,2,3
+"Cyprus","Russia",8.25,5.75,12,NA,5,10,6
+"Cyprus","Spain",7.5,5.75,10,NA,7,6,7
+"Cyprus","Sweden",1.5,5.75,0,NA,0,1,5
+"Cyprus","Switzerland",0,7.02500000000003,0,NA,0,NA,NA
+"Cyprus","The Netherlands",1.66666666666667,6.33333333333333,5,NA,NA,0,0
+"Cyprus","Turkey",3,5.76250000000002,0,NA,0,8,4
+"Cyprus","United Kingdom",0.75,6,3,NA,0,0,0
+"Denmark","Austria",0,6.66666666666667,0,NA,0,NA,0
+"Denmark","Belgium",1.33333333333333,6.66666666666667,0,NA,4,NA,0
+"Denmark","Croatia",0,6,0,0,0,NA,0
+"Denmark","Cyprus",2,6.66666666666667,0,NA,0,NA,6
+"Denmark","Estonia",6.66666666666667,6.33333333333333,4,8,8,NA,NA
+"Denmark","F.Y.R. Macedonia",0,6.66666666666667,0,NA,0,NA,0
+"Denmark","Finland",1.5,7.5,0,NA,3,NA,NA
+"Denmark","France",2.75,6,0,6,5,NA,0
+"Denmark","Germany",1.5,6,2,4,0,NA,0
+"Denmark","Iceland",5.33333333333333,6.33333333333333,12,2,NA,NA,2
+"Denmark","Ireland",1.66666666666667,6.66666666666667,5,0,NA,NA,0
+"Denmark","Israel",0.333333333333333,6.33333333333333,0,0,1,NA,NA
+"Denmark","Latvia",5,6.66666666666667,8,0,7,NA,NA
+"Denmark","Malta",7,5.75,3,12,12,NA,1
+"Denmark","Norway",2.33333333333333,6.33333333333333,7,0,NA,NA,0
+"Denmark","Romania",0,6.33333333333333,0,NA,0,NA,0
+"Denmark","Russia",1.5,5.75,6,0,0,NA,0
+"Denmark","Spain",0,5.75,0,0,0,NA,0
+"Denmark","Sweden",10.5,6,10,10,10,NA,12
+"Denmark","Switzerland",0,7.5,0,NA,0,NA,NA
+"Denmark","The Netherlands",0,6.66666666666667,0,0,NA,NA,0
+"Denmark","Turkey",3.5,5.75,1,3,0,NA,10
+"Denmark","United Kingdom",1.5,6,0,0,6,NA,0
+"Estonia","Austria",1.5,5.75,0,NA,0,6,0
+"Estonia","Belgium",2,6,0,NA,0,8,0
+"Estonia","Croatia",0,5.41000000000001,0,0,0,0,0
+"Estonia","Cyprus",2.75,5.75,0,NA,4,0,7
+"Estonia","Denmark",6.66666666666667,6.66666666666667,8,12,0,NA,NA
+"Estonia","F.Y.R. Macedonia",0,6.66666666666667,0,NA,0,NA,0
+"Estonia","Finland",6,7,7,NA,5,NA,NA
+"Estonia","France",2.6,5.2,0,10,3,0,0
+"Estonia","Germany",1.2,5.2,0,1,1,2,2
+"Estonia","Iceland",1.75,5.75,6,0,NA,1,0
+"Estonia","Ireland",1,5.5,4,0,NA,0,0
+"Estonia","Israel",0,6,0,0,0,0,NA
+"Estonia","Latvia",10.6666666666667,6.33333333333333,12,8,12,NA,NA
+"Estonia","Malta",3.2,5.2,1,2,7,0,6
+"Estonia","Norway",3.25,5.75,3,0,NA,10,0
+"Estonia","Romania",0,5.75,0,NA,0,0,0
+"Estonia","Russia",8.8,5.61000000000001,10,4,10,12,8
+"Estonia","Spain",0.6,5.4,0,3,0,0,0
+"Estonia","Sweden",7.4,5.4,5,7,8,7,10
+"Estonia","Switzerland",0,7.5,0,NA,0,NA,NA
+"Estonia","The Netherlands",0.75,5.75,0,0,NA,0,3
+"Estonia","Turkey",0,5.6,0,0,0,0,0
+"Estonia","United Kingdom",2.4,5.2,2,0,6,0,4
+"F.Y.R. Macedonia","Austria",0,6.33333333333333,0,NA,0,NA,0
+"F.Y.R. Macedonia","Belgium",0.666666666666667,6.33333333333333,2,NA,0,NA,0
+"F.Y.R. Macedonia","Croatia",6.66666666666667,6,10,NA,5,NA,5
+"F.Y.R. Macedonia","Cyprus",1.33333333333333,6.33333333333333,4,NA,0,NA,0
+"F.Y.R. Macedonia","Denmark",0,7,0,NA,0,NA,NA
+"F.Y.R. Macedonia","Estonia",3,7.5,0,NA,6,NA,NA
+"F.Y.R. Macedonia","Finland",0.5,7,0,NA,1,NA,NA
+"F.Y.R. Macedonia","France",0,6.66666666666667,0,NA,0,NA,0
+"F.Y.R. Macedonia","Germany",0,6.33333333333333,0,NA,0,NA,0
+"F.Y.R. Macedonia","Iceland",0,7,0,NA,NA,NA,0
+"F.Y.R. Macedonia","Ireland",0,7.5,0,NA,NA,NA,0
+"F.Y.R. Macedonia","Israel",0.5,7.5,1,NA,0,NA,NA
+"F.Y.R. Macedonia","Latvia",5,7,3,NA,7,NA,NA
+"F.Y.R. Macedonia","Malta",7,6.33333333333333,8,NA,10,NA,3
+"F.Y.R. Macedonia","Norway",0,7,0,NA,NA,NA,0
+"F.Y.R. Macedonia","Romania",8,6.33333333333333,12,NA,12,NA,0
+"F.Y.R. Macedonia","Russia",2.33333333333333,6.33333333333333,7,NA,0,NA,0
+"F.Y.R. Macedonia","Spain",0.333333333333333,6.66666666666667,0,NA,0,NA,1
+"F.Y.R. Macedonia","Sweden",2.66666666666667,6.33333333333333,6,NA,0,NA,2
+"F.Y.R. Macedonia","Switzerland",0,7.5,0,NA,0,NA,NA
+"F.Y.R. Macedonia","The Netherlands",0,7.02500000000003,0,NA,NA,NA,0
+"F.Y.R. Macedonia","Turkey",6.33333333333333,6,5,NA,8,NA,6
+"F.Y.R. Macedonia","United Kingdom",1.33333333333333,6.33333333333333,0,NA,4,NA,0
+"Finland","Austria",1,6.66666666666667,3,NA,0,NA,0
+"Finland","Belgium",0,6.33333333333333,0,NA,0,NA,0
+"Finland","Croatia",2.33333333333333,6.66666666666667,6,NA,0,NA,1
+"Finland","Cyprus",3.66666666666667,6.33333333333333,0,NA,4,NA,7
+"Finland","Denmark",5,7,10,NA,0,NA,NA
+"Finland","Estonia",9,7,8,NA,10,NA,NA
+"Finland","F.Y.R. Macedonia",0.333333333333333,6.35000000000002,0,NA,1,NA,0
+"Finland","France",4,6.66666666666667,0,NA,12,NA,0
+"Finland","Germany",0.666666666666667,6.66666666666667,2,NA,0,NA,0
+"Finland","Iceland",1,7,0,NA,NA,NA,2
+"Finland","Ireland",0.5,7.5,1,NA,NA,NA,0
+"Finland","Israel",2.5,7,0,NA,5,NA,NA
+"Finland","Latvia",9,7.5,12,NA,6,NA,NA
+"Finland","Malta",0.666666666666667,6.66666666666667,0,NA,2,NA,0
+"Finland","Norway",0,7.5,0,NA,NA,NA,0
+"Finland","Romania",0,6.33333333333333,0,NA,0,NA,0
+"Finland","Russia",4,6.33333333333333,5,NA,3,NA,4
+"Finland","Spain",0,6.66666666666667,0,NA,0,NA,0
+"Finland","Sweden",8.66666666666667,6.66666666666667,7,NA,7,NA,12
+"Finland","Switzerland",0,7.5,0,NA,0,NA,NA
+"Finland","The Netherlands",0,7.5,0,NA,NA,NA,0
+"Finland","Turkey",3,6.33333333333333,4,NA,0,NA,5
+"Finland","United Kingdom",2.66666666666667,6,0,NA,8,NA,0
+"France","Austria",1,5.51250000000002,0,NA,0,0,4
+"France","Belgium",3.5,5.75,0,NA,2,12,0
+"France","Croatia",1.6,5.4,8,0,0,0,0
+"France","Cyprus",1.25,6,0,NA,0,0,5
+"France","Denmark",3.66666666666667,6.33333333333333,7,4,0,NA,NA
+"France","Estonia",2,6,0,8,0,0,NA
+"France","F.Y.R. Macedonia",0,6.66666666666667,0,NA,0,NA,0
+"France","Finland",0,7.5,0,NA,0,NA,NA
+"France","Germany",4.6,5.6,10,6,0,0,7
+"France","Iceland",0.25,5.5,0,0,NA,1,0
+"France","Ireland",1,5.75,4,0,NA,0,0
+"France","Israel",8.5,6,6,10,10,8,NA
+"France","Latvia",3.66666666666667,6.66666666666667,3,0,8,NA,NA
+"France","Malta",1.2,5.6,0,0,6,0,0
+"France","Norway",0.75,6,0,0,NA,3,0
+"France","Romania",2,5.76250000000002,0,NA,4,4,0
+"France","Russia",2.4,5.4,5,0,0,7,0
+"France","Spain",5,5.4,0,5,12,0,8
+"France","Sweden",1.6,5.4,1,2,0,2,3
+"France","Switzerland",1.5,7,0,NA,3,NA,NA
+"France","The Netherlands",0.5,6,2,0,NA,0,0
+"France","Turkey",9.6,5.4,12,7,7,10,12
+"France","United Kingdom",0.2,5.6,0,0,1,0,0
+"Germany","Austria",1,6,2,NA,0,2,0
+"Germany","Belgium",1.5,5.75,0,NA,0,6,0
+"Germany","Croatia",2.6,5.2,6,3,3,0,1
+"Germany","Cyprus",2,5.75,0,NA,0,0,8
+"Germany","Denmark",8,6.66666666666667,12,12,0,NA,NA
+"Germany","Estonia",4.75,5.5,5,10,4,0,NA
+"Germany","F.Y.R. Macedonia",0,6.33333333333333,0,NA,0,NA,0
+"Germany","Finland",0,7,0,NA,0,NA,NA
+"Germany","France",2.4,5.2,0,6,6,0,0
+"Germany","Iceland",0.25,5.75,0,0,NA,1,0
+"Germany","Ireland",0,5.75,0,0,NA,0,0
+"Germany","Israel",1.25,5.75,0,0,5,0,NA
+"Germany","Latvia",6.33333333333333,6.66666666666667,7,0,12,NA,NA
+"Germany","Malta",2.8,5.4,3,1,10,0,0
+"Germany","Norway",1.75,6,0,0,NA,7,0
+"Germany","Romania",1.25,5.75,0,NA,1,4,0
+"Germany","Russia",2.4,5.6,4,0,0,8,0
+"Germany","Spain",1.8,5.6,0,0,7,0,2
+"Germany","Sweden",2.8,5.2,8,0,0,3,3
+"Germany","Switzerland",1,7,0,NA,2,NA,NA
+"Germany","The Netherlands",0.25,5.75,1,0,NA,0,0
+"Germany","Turkey",7.8,5.41000000000001,10,7,0,10,12
+"Germany","United Kingdom",2,5.4,0,2,8,0,0
+"Iceland","Austria",4.33333333333333,6.33333333333333,3,NA,NA,10,0
+"Iceland","Belgium",2.33333333333333,6.33333333333333,0,NA,NA,7,0
+"Iceland","Croatia",0,6,0,0,NA,0,0
+"Iceland","Cyprus",3.33333333333333,6.33333333333333,0,NA,NA,0,10
+"Iceland","Denmark",12,7,12,12,NA,NA,NA
+"Iceland","Estonia",5.33333333333333,6.33333333333333,5,10,NA,1,NA
+"Iceland","F.Y.R. Macedonia",0,7,0,NA,NA,NA,0
+"Iceland","Finland",0,10,0,NA,NA,NA,NA
+"Iceland","France",1,6,0,4,NA,0,0
+"Iceland","Germany",3.5,5.76250000000002,6,0,NA,8,0
+"Iceland","Ireland",1,5.75,2,0,NA,2,0
+"Iceland","Israel",0,6.33333333333333,0,0,NA,0,NA
+"Iceland","Latvia",5,7.52500000000003,10,0,NA,NA,NA
+"Iceland","Malta",0.75,5.76250000000002,0,3,NA,0,0
+"Iceland","Norway",4.75,5.76250000000002,7,0,NA,12,0
+"Iceland","Romania",0,6.66666666666667,0,NA,NA,0,0
+"Iceland","Russia",4.25,5.75,8,5,NA,4,0
+"Iceland","Spain",2.25,6,0,2,NA,6,1
+"Iceland","Sweden",6,5.75,4,7,NA,5,8
+"Iceland","Switzerland",0,12,0,NA,NA,NA,NA
+"Iceland","The Netherlands",0.25,5.5,1,0,NA,0,0
+"Iceland","Turkey",2,6,0,0,NA,3,5
+"Iceland","United Kingdom",0.5,5.5,0,0,NA,0,2
+"Ireland","Austria",0.666666666666667,6.66666666666667,2,NA,NA,0,0
+"Ireland","Belgium",3.33333333333333,6,0,NA,NA,10,0
+"Ireland","Croatia",1.5,5.75,0,0,NA,6,0
+"Ireland","Cyprus",3.33333333333333,6.66666666666667,0,NA,NA,0,10
+"Ireland","Denmark",12,7.5,12,12,NA,NA,NA
+"Ireland","Estonia",8.33333333333333,6.33333333333333,7,10,NA,8,NA
+"Ireland","F.Y.R. Macedonia",0,7.5,0,NA,NA,NA,0
+"Ireland","Finland",0,12,0,NA,NA,NA,NA
+"Ireland","France",1.75,6,0,7,NA,0,0
+"Ireland","Germany",4.75,5.5,5,6,NA,4,4
+"Ireland","Iceland",1.75,5.75,0,0,NA,7,0
+"Ireland","Israel",0,6.35000000000002,0,0,NA,0,NA
+"Ireland","Latvia",4,7.5,8,0,NA,NA,NA
+"Ireland","Malta",3,5.75,3,0,NA,3,6
+"Ireland","Norway",4,6,4,0,NA,12,0
+"Ireland","Romania",0,6.33333333333333,0,NA,NA,0,0
+"Ireland","Russia",2.5,6,10,0,NA,0,0
+"Ireland","Spain",0.75,5.5,0,3,NA,0,0
+"Ireland","Sweden",6.5,5.75,6,8,NA,0,12
+"Ireland","Switzerland",0,10,0,NA,NA,NA,NA
+"Ireland","The Netherlands",1.5,6,1,0,NA,5,0
+"Ireland","Turkey",0.25,6,0,0,NA,0,1
+"Ireland","United Kingdom",3,5.76250000000002,0,4,NA,0,8
+"Israel","Austria",0,5.5,0,NA,0,0,0
+"Israel","Belgium",2,5.76250000000002,0,NA,0,8,0
+"Israel","Croatia",0,5.4,0,0,0,0,0
+"Israel","Cyprus",1,5.75,0,NA,0,1,3
+"Israel","Denmark",7.66666666666667,6.33333333333333,12,7,4,NA,NA
+"Israel","Estonia",3.5,5.76250000000002,6,6,2,0,NA
+"Israel","F.Y.R. Macedonia",0,6.33333333333333,0,NA,0,NA,0
+"Israel","Finland",0,6.52500000000003,0,NA,0,NA,NA
+"Israel","France",1.8,5.4,0,2,7,0,0
+"Israel","Germany",0,5.4,0,0,0,0,0
+"Israel","Iceland",1.25,5.5,5,0,NA,0,0
+"Israel","Ireland",0.5,6,2,0,NA,0,0
+"Israel","Latvia",5.33333333333333,6.33333333333333,4,0,12,NA,NA
+"Israel","Malta",3.4,5.4,3,0,10,0,4
+"Israel","Norway",2.5,6,7,0,NA,3,0
+"Israel","Romania",3.75,5.75,0,NA,8,6,1
+"Israel","Russia",6,5.2,10,3,1,10,6
+"Israel","Spain",7.6,5.6,0,12,6,12,8
+"Israel","Sweden",4.2,5.4,0,8,3,5,5
+"Israel","Switzerland",0,7,0,NA,0,NA,NA
+"Israel","The Netherlands",3.75,5.75,8,5,NA,2,0
+"Israel","Turkey",1.8,5.2,0,0,0,7,2
+"Israel","United Kingdom",1.2,5.2,1,0,5,0,0
+"Latvia","Austria",2.25,5.75,5,NA,0,4,0
+"Latvia","Belgium",2.5,6.25,0,NA,0,10,0
+"Latvia","Croatia",0,5.4,0,0,0,0,0
+"Latvia","Cyprus",3,6,0,NA,8,0,4
+"Latvia","Denmark",7.33333333333333,6.66666666666667,12,10,0,NA,NA
+"Latvia","Estonia",8.5,6,10,12,12,0,NA
+"Latvia","F.Y.R. Macedonia",0,6.66666666666667,0,NA,0,NA,0
+"Latvia","Finland",0,7.5,0,NA,0,NA,NA
+"Latvia","France",1.8,5.4,0,7,2,0,0
+"Latvia","Germany",2.2,5.4,8,1,0,2,0
+"Latvia","Iceland",2.5,6,7,0,NA,3,0
+"Latvia","Ireland",0.5,5.75,1,0,NA,1,0
+"Latvia","Israel",0.75,5.75,0,0,3,0,NA
+"Latvia","Malta",3.4,5.4,4,0,7,0,6
+"Latvia","Norway",3.25,5.75,6,0,NA,7,0
+"Latvia","Romania",0,5.75,0,NA,0,0,0
+"Latvia","Russia",8,5.6,0,8,10,12,10
+"Latvia","Spain",0.8,5.4,0,4,0,0,0
+"Latvia","Sweden",4.8,5.4,0,6,4,6,8
+"Latvia","Switzerland",1.5,7.5,2,NA,1,NA,NA
+"Latvia","The Netherlands",0,5.75,0,0,NA,0,0
+"Latvia","Turkey",0.4,5.6,0,0,0,0,2
+"Latvia","United Kingdom",2.8,5.4,3,3,5,0,3
+"Malta","Austria",0.5,6,2,NA,0,0,0
+"Malta","Belgium",0,6,0,NA,0,0,0
+"Malta","Croatia",2,5.4,0,10,0,0,0
+"Malta","Cyprus",5.5,5.51250000000002,1,NA,12,2,7
+"Malta","Denmark",5,6.68333333333336,8,6,1,NA,NA
+"Malta","Estonia",5.25,5.75,7,12,2,0,NA
+"Malta","F.Y.R. Macedonia",2,6.66666666666667,0,NA,5,NA,1
+"Malta","Finland",0,7.5,0,NA,0,NA,NA
+"Malta","France",0,5.4,0,0,0,0,0
+"Malta","Germany",2.4,5.6,0,5,4,3,0
+"Malta","Iceland",3,5.5,0,0,NA,12,0
+"Malta","Ireland",3.75,5.75,10,0,NA,5,0
+"Malta","Israel",0,5.75,0,0,0,0,NA
+"Malta","Latvia",2.33333333333333,6.33333333333333,0,0,7,NA,NA
+"Malta","Norway",2.25,6,3,0,NA,6,0
+"Malta","Romania",1.5,5.75,0,NA,6,0,0
+"Malta","Russia",4.6,5.4,12,2,8,1,0
+"Malta","Spain",0.6,5.6,0,0,0,0,3
+"Malta","Sweden",5,5.4,4,8,0,8,5
+"Malta","Switzerland",0,7,0,NA,0,NA,NA
+"Malta","The Netherlands",3.5,5.75,5,0,NA,7,2
+"Malta","Turkey",1.6,5.41000000000001,0,4,0,4,0
+"Malta","United Kingdom",4.6,5.4,6,3,10,0,4
+"Norway","Austria",2.66666666666667,6.33333333333333,0,NA,NA,8,0
+"Norway","Belgium",1,6.33333333333333,0,NA,NA,3,0
+"Norway","Croatia",0,6,0,0,NA,0,0
+"Norway","Cyprus",1.33333333333333,6.33333333333333,0,NA,NA,0,4
+"Norway","Denmark",11,7,10,12,NA,NA,NA
+"Norway","Estonia",4.66666666666667,6.66666666666667,4,10,NA,0,NA
+"Norway","F.Y.R. Macedonia",0,7.5,0,NA,NA,NA,0
+"Norway","Finland",0,10,0,NA,NA,NA,NA
+"Norway","France",1.75,6,0,7,NA,0,0
+"Norway","Germany",1.75,6,3,3,NA,0,1
+"Norway","Iceland",6.25,6,7,1,NA,12,5
+"Norway","Ireland",3,6,6,0,NA,6,0
+"Norway","Israel",0,6.33333333333333,0,0,NA,0,NA
+"Norway","Latvia",6,7.5,12,0,NA,NA,NA
+"Norway","Malta",1.75,5.76250000000002,2,5,NA,0,0
+"Norway","Romania",0.333333333333333,6,0,NA,NA,1,0
+"Norway","Russia",2.5,5.76250000000002,8,0,NA,2,0
+"Norway","Spain",1,5.75,0,4,NA,0,0
+"Norway","Sweden",6.5,6,5,2,NA,7,12
+"Norway","Switzerland",0,10,0,NA,NA,NA,NA
+"Norway","The Netherlands",1.25,6,0,0,NA,5,0
+"Norway","Turkey",4.75,5.75,1,0,NA,10,8
+"Norway","United Kingdom",0,5.75,0,0,NA,0,0
+"Romania","Austria",0,6,0,NA,0,0,0
+"Romania","Belgium",2,5.75,0,NA,0,8,0
+"Romania","Croatia",2,5.75,8,NA,0,0,0
+"Romania","Cyprus",2.75,5.5,0,NA,8,0,3
+"Romania","Denmark",0.5,7,1,NA,0,NA,NA
+"Romania","Estonia",2.66666666666667,6.33333333333333,6,NA,2,0,NA
+"Romania","F.Y.R. Macedonia",7.33333333333333,6.35000000000002,10,NA,12,NA,0
+"Romania","Finland",2,7.5,4,NA,0,NA,NA
+"Romania","France",2.5,5.75,0,NA,4,6,0
+"Romania","Germany",1.5,5.5,0,NA,1,1,4
+"Romania","Iceland",0,6.33333333333333,0,NA,NA,0,0
+"Romania","Ireland",0.666666666666667,6.01666666666669,2,NA,NA,0,0
+"Romania","Israel",1.66666666666667,6.33333333333333,0,NA,5,0,NA
+"Romania","Latvia",0,7.5,0,NA,0,NA,NA
+"Romania","Malta",1.75,5.75,7,NA,0,0,0
+"Romania","Norway",1,6.66666666666667,0,NA,NA,3,0
+"Romania","Russia",7.25,6,12,NA,10,7,0
+"Romania","Spain",3.75,6,5,NA,0,5,5
+"Romania","Sweden",4.75,6,0,NA,0,12,7
+"Romania","Switzerland",1.5,7.02500000000003,0,NA,3,NA,NA
+"Romania","The Netherlands",0,6.66666666666667,0,NA,NA,0,0
+"Romania","Turkey",6.75,5.75,0,NA,7,10,10
+"Romania","United Kingdom",1.25,6,3,NA,0,0,2
+"Russia","Austria",0.25,5.75,0,NA,1,0,0
+"Russia","Belgium",2.5,5.75,0,NA,7,3,0
+"Russia","Croatia",3,5.8,10,0,0,0,5
+"Russia","Cyprus",3,5.5,0,NA,6,0,6
+"Russia","Denmark",4,6.66666666666667,12,0,0,NA,NA
+"Russia","Estonia",2.75,5.5,0,6,3,2,NA
+"Russia","F.Y.R. Macedonia",2.33333333333333,6,7,NA,0,NA,0
+"Russia","Finland",0,7,0,NA,0,NA,NA
+"Russia","France",3.8,5.2,3,12,0,0,4
+"Russia","Germany",4.2,5.4,4,8,2,7,0
+"Russia","Iceland",0.5,6,0,0,NA,0,2
+"Russia","Ireland",0,5.75,0,0,NA,0,0
+"Russia","Israel",1.25,5.51250000000002,0,0,0,5,NA
+"Russia","Latvia",3.66666666666667,6.66666666666667,1,0,10,NA,NA
+"Russia","Malta",4,5.4,8,7,5,0,0
+"Russia","Norway",1,5.5,0,0,NA,4,0
+"Russia","Romania",7.5,5.75,6,NA,12,12,0
+"Russia","Spain",1.6,5.2,2,0,0,6,0
+"Russia","Sweden",1,5.6,0,2,0,0,3
+"Russia","Switzerland",2.5,7.5,5,NA,0,NA,NA
+"Russia","The Netherlands",2.75,6,0,1,NA,10,0
+"Russia","Turkey",1.6,5.21000000000001,0,0,0,0,8
+"Russia","United Kingdom",0.8,5.6,0,3,0,0,1
+"Spain","Austria",4,5.76250000000002,8,NA,0,8,0
+"Spain","Belgium",3.25,5.75,0,NA,1,12,0
+"Spain","Croatia",0.4,5.6,2,0,0,0,0
+"Spain","Cyprus",2.25,5.5,0,NA,6,0,3
+"Spain","Denmark",5.66666666666667,6.66666666666667,10,7,0,NA,NA
+"Spain","Estonia",2,5.51250000000002,0,8,0,0,NA
+"Spain","F.Y.R. Macedonia",0,6,0,NA,0,NA,0
+"Spain","Finland",0,7,0,NA,0,NA,NA
+"Spain","France",3,5.6,0,3,8,0,4
+"Spain","Germany",8,5.4,12,10,2,4,12
+"Spain","Iceland",0,5.75,0,0,NA,0,0
+"Spain","Ireland",0.75,5.75,3,0,NA,0,0
+"Spain","Israel",0.25,5.75,0,0,0,1,NA
+"Spain","Latvia",6.33333333333333,6,7,0,12,NA,NA
+"Spain","Malta",3,5.21000000000001,1,4,10,0,0
+"Spain","Norway",0,5.75,0,0,NA,0,0
+"Spain","Romania",6.25,5.75,0,NA,5,10,10
+"Spain","Russia",2.2,5.4,5,0,0,6,0
+"Spain","Sweden",4.6,5.2,6,5,0,7,5
+"Spain","Switzerland",0,7.5,0,NA,0,NA,NA
+"Spain","The Netherlands",1,5.75,4,0,NA,0,0
+"Spain","Turkey",1.8,5.61000000000001,0,0,4,3,2
+"Spain","United Kingdom",0.2,5.2,0,1,0,0,0
+"Sweden","Austria",1.5,5.75,0,NA,0,6,0
+"Sweden","Belgium",0.75,5.5,0,NA,3,0,0
+"Sweden","Croatia",0,5.4,0,0,0,0,0
+"Sweden","Cyprus",1.75,6,0,NA,1,0,6
+"Sweden","Denmark",7.33333333333333,6.66666666666667,12,10,0,NA,NA
+"Sweden","Estonia",6.5,6,6,8,12,0,NA
+"Sweden","F.Y.R. Macedonia",0,6.33333333333333,0,NA,0,NA,0
+"Sweden","Finland",6,7.02500000000003,2,NA,10,NA,NA
+"Sweden","France",2.8,5.8,0,6,8,0,0
+"Sweden","Germany",2,5.2,0,0,0,10,0
+"Sweden","Iceland",3.75,6,8,0,NA,7,0
+"Sweden","Ireland",1,5.76250000000002,4,0,NA,0,0
+"Sweden","Israel",0,5.75,0,0,0,0,NA
+"Sweden","Latvia",5,6.66666666666667,10,0,5,NA,NA
+"Sweden","Malta",2,5.2,3,3,4,0,0
+"Sweden","Norway",5.5,6,7,0,NA,12,3
+"Sweden","Romania",0.25,5.5,0,NA,0,1,0
+"Sweden","Russia",1.4,5.6,5,0,0,2,0
+"Sweden","Spain",3.2,5.4,0,5,7,4,0
+"Sweden","Switzerland",0,7.5,0,NA,0,NA,NA
+"Sweden","The Netherlands",1.25,5.75,0,0,NA,5,0
+"Sweden","Turkey",2.8,5.4,1,0,0,8,5
+"Sweden","United Kingdom",0.8,5.4,0,0,2,0,2
+"Switzerland","Austria",3.66666666666667,6.66666666666667,4,NA,7,NA,0
+"Switzerland","Belgium",0,6.66666666666667,0,NA,0,NA,0
+"Switzerland","Croatia",4.66666666666667,6.01666666666669,6,NA,5,NA,3
+"Switzerland","Cyprus",0.666666666666667,6.33333333333333,0,NA,0,NA,2
+"Switzerland","Denmark",5,7.5,10,NA,0,NA,NA
+"Switzerland","Estonia",0,7,0,NA,0,NA,NA
+"Switzerland","F.Y.R. Macedonia",0.333333333333333,6.33333333333333,0,NA,0,NA,1
+"Switzerland","Finland",0,7.52500000000003,0,NA,0,NA,NA
+"Switzerland","France",3.33333333333333,6.66666666666667,0,NA,10,NA,0
+"Switzerland","Germany",8.33333333333333,6.33333333333333,12,NA,3,NA,10
+"Switzerland","Iceland",0,7,0,NA,NA,NA,0
+"Switzerland","Ireland",4,7,8,NA,NA,NA,0
+"Switzerland","Israel",0.5,7.5,0,NA,1,NA,NA
+"Switzerland","Latvia",7.5,7.5,7,NA,8,NA,NA
+"Switzerland","Malta",1.33333333333333,6.33333333333333,0,NA,4,NA,0
+"Switzerland","Norway",0,7.5,0,NA,NA,NA,0
+"Switzerland","Romania",0,6.33333333333333,0,NA,0,NA,0
+"Switzerland","Russia",0.666666666666667,6.33333333333333,2,NA,0,NA,0
+"Switzerland","Spain",6.33333333333333,6.33333333333333,1,NA,12,NA,6
+"Switzerland","Sweden",1,6.66666666666667,3,NA,0,NA,0
+"Switzerland","The Netherlands",0,7,0,NA,NA,NA,0
+"Switzerland","Turkey",4.33333333333333,6.35000000000002,5,NA,0,NA,8
+"Switzerland","United Kingdom",2,6.66666666666667,0,NA,6,NA,0
+"The Netherlands","Austria",2.66666666666667,6.33333333333333,0,NA,NA,8,0
+"The Netherlands","Belgium",5,6,0,NA,NA,10,5
+"The Netherlands","Croatia",0,6,0,0,NA,0,0
+"The Netherlands","Cyprus",2.66666666666667,6.66666666666667,0,NA,NA,0,8
+"The Netherlands","Denmark",10,7.5,10,10,NA,NA,NA
+"The Netherlands","Estonia",6.33333333333333,6.01666666666669,7,12,NA,0,NA
+"The Netherlands","F.Y.R. Macedonia",0,7.5,0,NA,NA,NA,0
+"The Netherlands","Finland",5,10.1000000000001,5,NA,NA,NA,NA
+"The Netherlands","France",2.5,5.75,2,8,NA,0,0
+"The Netherlands","Germany",3.5,6,8,1,NA,2,3
+"The Netherlands","Iceland",1.5,5.75,0,0,NA,6,0
+"The Netherlands","Ireland",0.75,5.75,3,0,NA,0,0
+"The Netherlands","Israel",0,6,0,0,NA,0,NA
+"The Netherlands","Latvia",2,7.5,4,0,NA,NA,NA
+"The Netherlands","Malta",0.25,6,1,0,NA,0,0
+"The Netherlands","Norway",1.75,6,0,0,NA,7,0
+"The Netherlands","Romania",0,6.66666666666667,0,NA,NA,0,0
+"The Netherlands","Russia",0.25,6,0,0,NA,1,0
+"The Netherlands","Spain",4,6,0,7,NA,5,4
+"The Netherlands","Sweden",0.75,5.75,0,0,NA,3,0
+"The Netherlands","Switzerland",6,10,6,NA,NA,NA,NA
+"The Netherlands","Turkey",9.75,5.75,12,3,NA,12,12
+"The Netherlands","United Kingdom",0.5,5.75,0,2,NA,0,0
+"Turkey","Austria",5.5,5.75,4,NA,12,6,0
+"Turkey","Belgium",4.25,5.75,0,NA,10,7,0
+"Turkey","Croatia",4.2,5.4,8,10,0,3,0
+"Turkey","Cyprus",0.25,5.5,0,NA,0,0,1
+"Turkey","Denmark",2,6.66666666666667,1,4,1,NA,NA
+"Turkey","Estonia",5.5,6,2,12,8,0,NA
+"Turkey","F.Y.R. Macedonia",1.33333333333333,6.33333333333333,0,NA,0,NA,4
+"Turkey","Finland",0,7.5,0,NA,0,NA,NA
+"Turkey","France",0.2,5.6,0,1,0,0,0
+"Turkey","Germany",2.2,5.4,0,3,3,0,5
+"Turkey","Iceland",2,5.75,0,0,NA,8,0
+"Turkey","Ireland",3,5.75,7,0,NA,5,0
+"Turkey","Israel",1.75,5.75,0,7,0,0,NA
+"Turkey","Latvia",2,6,0,0,6,NA,NA
+"Turkey","Malta",2.4,5.6,5,2,5,0,0
+"Turkey","Norway",2.5,6,10,0,NA,0,0
+"Turkey","Romania",2,6,0,NA,7,1,0
+"Turkey","Russia",2,5.4,0,0,0,10,0
+"Turkey","Spain",2,5.6,0,6,0,2,2
+"Turkey","Sweden",5.4,5.4,12,8,4,0,3
+"Turkey","Switzerland",0,7,0,NA,0,NA,NA
+"Turkey","The Netherlands",0.75,5.75,3,0,NA,0,0
+"Turkey","United Kingdom",1.6,5.6,6,0,2,0,0
+"United Kingdom","Austria",2.25,5.75,1,NA,0,8,0
+"United Kingdom","Belgium",2.25,5.75,0,NA,4,5,0
+"United Kingdom","Croatia",0,5.4,0,0,0,0,0
+"United Kingdom","Cyprus",3.25,6,0,NA,3,0,10
+"United Kingdom","Denmark",7.33333333333333,6.66666666666667,12,10,0,NA,NA
+"United Kingdom","Estonia",6.5,5.75,4,12,7,3,NA
+"United Kingdom","F.Y.R. Macedonia",0,6.33333333333333,0,NA,0,NA,0
+"United Kingdom","Finland",0,7,0,NA,0,NA,NA
+"United Kingdom","France",3.2,5.4,0,6,10,0,0
+"United Kingdom","Germany",3,5.2,5,2,0,4,4
+"United Kingdom","Iceland",0,6,0,0,NA,0,0
+"United Kingdom","Ireland",8.5,5.76250000000002,10,5,NA,12,7
+"United Kingdom","Israel",1.25,6.25,0,0,5,0,NA
+"United Kingdom","Latvia",5,6.66666666666667,7,0,8,NA,NA
+"United Kingdom","Malta",3.4,5.4,2,1,12,0,2
+"United Kingdom","Norway",2.25,6,3,0,NA,6,0
+"United Kingdom","Romania",0,6,0,NA,0,0,0
+"United Kingdom","Russia",1.6,5.4,8,0,0,0,0
+"United Kingdom","Spain",1,5.41000000000001,0,3,2,0,0
+"United Kingdom","Sweden",6.6,5.4,6,8,1,10,8
+"United Kingdom","Switzerland",0,7,0,NA,0,NA,NA
+"United Kingdom","The Netherlands",0.25,5.51250000000002,0,0,NA,1,0
+"United Kingdom","Turkey",2.6,5.2,0,0,0,7,6
+"Bosnia & Herzegovina","Croatia",6.25,5.76250000000002,NA,7,2,6,10
+"Bosnia & Herzegovina","Denmark",0,7.5,NA,0,0,NA,NA
+"Bosnia & Herzegovina","Estonia",4.66666666666667,6.33333333333333,NA,4,10,0,NA
+"Bosnia & Herzegovina","France",7,5.75,NA,12,8,8,0
+"Bosnia & Herzegovina","Germany",0.75,5.76250000000002,NA,0,0,0,3
+"Bosnia & Herzegovina","Greece",3.25,5.75,NA,8,0,0,5
+"Bosnia & Herzegovina","Iceland",0,6.33333333333333,NA,0,NA,0,0
+"Bosnia & Herzegovina","Ireland",0,6.33333333333333,NA,0,NA,0,0
+"Bosnia & Herzegovina","Israel",2,6,NA,6,0,0,NA
+"Bosnia & Herzegovina","Latvia",2.5,7,NA,0,5,NA,NA
+"Bosnia & Herzegovina","Lithuania",0.666666666666667,6.33333333333333,NA,2,0,0,NA
+"Bosnia & Herzegovina","Malta",1.5,5.75,NA,1,4,0,1
+"Bosnia & Herzegovina","Norway",0,6.66666666666667,NA,0,NA,0,0
+"Bosnia & Herzegovina","Poland",0,6.33333333333333,NA,0,NA,0,0
+"Bosnia & Herzegovina","Portugal",0,7.5,NA,0,NA,0,NA
+"Bosnia & Herzegovina","Russia",0.75,5.5,NA,0,0,3,0
+"Bosnia & Herzegovina","Slovenia",5,6,NA,10,1,4,NA
+"Bosnia & Herzegovina","Spain",2.75,5.75,NA,5,6,0,0
+"Bosnia & Herzegovina","Sweden",4.5,5.75,NA,3,12,1,2
+"Bosnia & Herzegovina","The Netherlands",0.666666666666667,6,NA,0,NA,2,0
+"Bosnia & Herzegovina","Turkey",4.75,6,NA,0,0,12,7
+"Bosnia & Herzegovina","United Kingdom",1.75,5.75,NA,0,7,0,0
+"Croatia","Bosnia & Herzegovina",8.75,5.5,NA,10,7,8,10
+"Croatia","Greece",3.25,6,NA,5,1,0,7
+"Croatia","Lithuania",0,6.33333333333333,NA,0,0,0,NA
+"Croatia","Poland",0,6.35000000000002,NA,0,NA,0,0
+"Croatia","Portugal",0,7.5,NA,0,NA,0,NA
+"Croatia","Slovenia",6.33333333333333,6.66666666666667,NA,8,8,3,NA
+"Denmark","Bosnia & Herzegovina",5.66666666666667,6.66666666666667,NA,7,2,NA,8
+"Denmark","Greece",2.66666666666667,6.66666666666667,NA,5,0,NA,3
+"Denmark","Lithuania",0,7.5,NA,0,0,NA,NA
+"Denmark","Poland",0.5,7,NA,1,NA,NA,0
+"Denmark","Portugal",0,10,NA,0,NA,NA,NA
+"Denmark","Slovenia",0,7.5,NA,0,0,NA,NA
+"Estonia","Bosnia & Herzegovina",0,6,NA,0,0,0,0
+"Estonia","Greece",2.75,5.75,NA,6,0,0,5
+"Estonia","Lithuania",2.33333333333333,6.33333333333333,NA,0,2,5,NA
+"Estonia","Poland",1.33333333333333,6.33333333333333,NA,0,NA,4,0
+"Estonia","Portugal",0,7,NA,0,NA,0,NA
+"Estonia","Slovenia",1.66666666666667,6.66666666666667,NA,5,0,0,NA
+"France","Bosnia & Herzegovina",0,5.5,NA,0,0,0,0
+"France","Greece",2.25,5.75,NA,3,0,0,6
+"France","Lithuania",0,6.33333333333333,NA,0,0,0,NA
+"France","Poland",1.66666666666667,6.66666666666667,NA,0,NA,5,0
+"France","Portugal",9,7.5,NA,12,NA,6,NA
+"France","Slovenia",2,6,NA,1,5,0,NA
+"Germany","Bosnia & Herzegovina",0,6,NA,0,0,0,0
+"Germany","Greece",5,5.75,NA,8,0,5,7
+"Germany","Lithuania",0,6.33333333333333,NA,0,0,0,NA
+"Germany","Poland",7,6,NA,5,NA,12,4
+"Germany","Portugal",0,7.02500000000003,NA,0,NA,0,NA
+"Germany","Slovenia",1.33333333333333,6,NA,4,0,0,NA
+"Greece","Bosnia & Herzegovina",0,5.75,NA,0,0,0,0
+"Greece","Croatia",3.25,6,NA,7,5,1,0
+"Greece","Denmark",3,7.5,NA,6,0,NA,NA
+"Greece","Estonia",4,6.33333333333333,NA,12,0,0,NA
+"Greece","France",1.75,5.75,NA,4,3,0,0
+"Greece","Germany",0.25,5.75,NA,1,0,0,0
+"Greece","Iceland",0,6.01666666666669,NA,0,NA,0,0
+"Greece","Ireland",0,6.66666666666667,NA,0,NA,0,0
+"Greece","Israel",1.66666666666667,6.33333333333333,NA,2,0,3,NA
+"Greece","Latvia",5,7,NA,0,10,NA,NA
+"Greece","Lithuania",0,6.01666666666669,NA,0,0,0,NA
+"Greece","Malta",2.5,5.75,NA,3,6,0,1
+"Greece","Norway",0,6.33333333333333,NA,0,NA,0,0
+"Greece","Poland",3.33333333333333,6.66666666666667,NA,0,NA,6,4
+"Greece","Portugal",0,7.5,NA,0,NA,0,NA
+"Greece","Russia",4.75,5.75,NA,5,2,10,2
+"Greece","Slovenia",0,6.33333333333333,NA,0,0,0,NA
+"Greece","Spain",5,5.75,NA,8,4,5,3
+"Greece","Sweden",0.25,6,NA,0,1,0,0
+"Greece","The Netherlands",0,6.33333333333333,NA,0,NA,0,0
+"Greece","Turkey",5.75,5.75,NA,10,0,7,6
+"Greece","United Kingdom",1.75,5.75,NA,0,7,0,0
+"Iceland","Bosnia & Herzegovina",0,6.33333333333333,NA,0,NA,0,0
+"Iceland","Greece",4.66666666666667,6.66666666666667,NA,8,NA,0,6
+"Iceland","Lithuania",0.5,7.5,NA,1,NA,0,NA
+"Iceland","Poland",1,6.33333333333333,NA,0,NA,0,3
+"Iceland","Portugal",0,7,NA,0,NA,0,NA
+"Iceland","Slovenia",3,7.5,NA,6,NA,0,NA
+"Ireland","Bosnia & Herzegovina",0,6.33333333333333,NA,0,NA,0,0
+"Ireland","Greece",3.66666666666667,6,NA,5,NA,1,5
+"Ireland","Lithuania",0.5,7,NA,1,NA,0,NA
+"Ireland","Poland",0,6.33333333333333,NA,0,NA,0,0
+"Ireland","Portugal",1,7.02500000000003,NA,0,NA,2,NA
+"Ireland","Slovenia",1,7,NA,2,NA,0,NA
+"Israel","Bosnia & Herzegovina",0,5.5,NA,0,0,0,0
+"Israel","Greece",5,6,NA,10,0,0,10
+"Israel","Lithuania",1.33333333333333,6.33333333333333,NA,4,0,0,NA
+"Israel","Poland",0,6,NA,0,NA,0,0
+"Israel","Portugal",0,7,NA,0,NA,0,NA
+"Israel","Slovenia",0.333333333333333,6.66666666666667,NA,1,0,0,NA
+"Latvia","Bosnia & Herzegovina",0,5.75,NA,0,0,0,0
+"Latvia","Greece",2.25,5.75,NA,2,0,0,7
+"Latvia","Lithuania",3.66666666666667,6.35000000000002,NA,5,6,0,NA
+"Latvia","Poland",2.66666666666667,6.33333333333333,NA,0,NA,8,0
+"Latvia","Portugal",0,7.5,NA,0,NA,0,NA
+"Latvia","Slovenia",0,6.33333333333333,NA,0,0,0,NA
+"Lithuania","Bosnia & Herzegovina",0,6.68333333333336,NA,0,0,NA,0
+"Lithuania","Croatia",0,6.33333333333333,NA,0,0,NA,0
+"Lithuania","Denmark",3.5,7.5,NA,6,1,NA,NA
+"Lithuania","Estonia",9.5,7.5,NA,12,7,NA,NA
+"Lithuania","France",4,6.66666666666667,NA,7,5,NA,0
+"Lithuania","Germany",0.333333333333333,6.35000000000002,NA,0,0,NA,1
+"Lithuania","Greece",5,6.66666666666667,NA,5,0,NA,10
+"Lithuania","Iceland",0,7,NA,0,NA,NA,0
+"Lithuania","Ireland",0,7,NA,0,NA,NA,0
+"Lithuania","Israel",0,7.5,NA,0,0,NA,NA
+"Lithuania","Latvia",10,7.5,NA,8,12,NA,NA
+"Lithuania","Malta",2.66666666666667,6,NA,1,3,NA,4
+"Lithuania","Norway",0,7.5,NA,0,NA,NA,0
+"Lithuania","Poland",3.5,7.5,NA,0,NA,NA,7
+"Lithuania","Portugal",0,12,NA,0,NA,NA,NA
+"Lithuania","Russia",8,6.35000000000002,NA,10,6,NA,8
+"Lithuania","Slovenia",2,7,NA,4,0,NA,NA
+"Lithuania","Spain",0,6.33333333333333,NA,0,0,NA,0
+"Lithuania","Sweden",6,6.66666666666667,NA,2,10,NA,6
+"Lithuania","The Netherlands",0,7.5,NA,0,NA,NA,0
+"Lithuania","Turkey",1,6.33333333333333,NA,0,0,NA,3
+"Lithuania","United Kingdom",3.66666666666667,6.66666666666667,NA,3,8,NA,0
+"Malta","Bosnia & Herzegovina",1,6,NA,1,3,0,0
+"Malta","Greece",4.75,5.75,NA,7,0,0,12
+"Malta","Lithuania",0,6.33333333333333,NA,0,0,0,NA
+"Malta","Poland",3.33333333333333,6.66666666666667,NA,0,NA,10,0
+"Malta","Portugal",0,7,NA,0,NA,0,NA
+"Malta","Slovenia",0,6.66666666666667,NA,0,0,0,NA
+"Norway","Bosnia & Herzegovina",3.33333333333333,6.66666666666667,NA,0,NA,0,10
+"Norway","Greece",3.33333333333333,6.66666666666667,NA,8,NA,0,2
+"Norway","Lithuania",0,6.5,NA,0,NA,0,NA
+"Norway","Poland",1.33333333333333,6.33333333333333,NA,0,NA,4,0
+"Norway","Portugal",0,7,NA,0,NA,0,NA
+"Norway","Slovenia",3,7.5,NA,6,NA,0,NA
+"Poland","Bosnia & Herzegovina",0,6.33333333333333,NA,0,NA,0,0
+"Poland","Croatia",0,6.35000000000002,NA,0,NA,0,0
+"Poland","Denmark",7,10,NA,7,NA,NA,NA
+"Poland","Estonia",6,7.5,NA,12,NA,0,NA
+"Poland","France",4.33333333333333,6.66666666666667,NA,10,NA,3,0
+"Poland","Germany",5,6.33333333333333,NA,4,NA,5,6
+"Poland","Greece",5,6.33333333333333,NA,8,NA,0,7
+"Poland","Iceland",0.333333333333333,6.66666666666667,NA,0,NA,1,0
+"Poland","Ireland",0,6,NA,0,NA,0,0
+"Poland","Israel",0,7.5,NA,0,NA,0,NA
+"Poland","Latvia",0,10,NA,0,NA,NA,NA
+"Poland","Lithuania",0,7,NA,0,NA,0,NA
+"Poland","Malta",2,6.35000000000002,NA,3,NA,0,3
+"Poland","Norway",2,6.66666666666667,NA,0,NA,6,0
+"Poland","Portugal",0,7.5,NA,0,NA,0,NA
+"Poland","Russia",1.33333333333333,6,NA,0,NA,4,0
+"Poland","Slovenia",3,7.5,NA,6,NA,0,NA
+"Poland","Spain",0.666666666666667,6.33333333333333,NA,1,NA,0,1
+"Poland","Sweden",7.33333333333333,6.33333333333333,NA,5,NA,7,10
+"Poland","The Netherlands",0,6.66666666666667,NA,0,NA,0,0
+"Poland","Turkey",3.33333333333333,6.66666666666667,NA,0,NA,2,8
+"Poland","United Kingdom",1.33333333333333,6.33333333333333,NA,2,NA,0,2
+"Portugal","Bosnia & Herzegovina",0,6.33333333333333,NA,0,NA,0,0
+"Portugal","Croatia",0,6.35000000000002,NA,0,NA,0,0
+"Portugal","Denmark",8,10,NA,8,NA,NA,NA
+"Portugal","Estonia",0,7.5,NA,0,NA,0,NA
+"Portugal","France",5.33333333333333,6.33333333333333,NA,12,NA,2,2
+"Portugal","Germany",6,6.33333333333333,NA,10,NA,0,8
+"Portugal","Greece",3.33333333333333,6.66666666666667,NA,4,NA,0,6
+"Portugal","Iceland",0,6.66666666666667,NA,0,NA,0,0
+"Portugal","Ireland",2.66666666666667,6.33333333333333,NA,1,NA,7,0
+"Portugal","Israel",0,7,NA,0,NA,0,NA
+"Portugal","Latvia",0,12,NA,0,NA,NA,NA
+"Portugal","Lithuania",0,8,NA,0,NA,0,NA
+"Portugal","Malta",0.666666666666667,6.33333333333333,NA,0,NA,1,1
+"Portugal","Norway",2.66666666666667,6.66666666666667,NA,3,NA,5,0
+"Portugal","Poland",0,6,NA,0,NA,0,0
+"Portugal","Russia",1.33333333333333,6.33333333333333,NA,0,NA,4,0
+"Portugal","Slovenia",0,8,NA,0,NA,0,NA
+"Portugal","Spain",10.3333333333333,6.35000000000002,NA,7,NA,12,12
+"Portugal","Sweden",4.33333333333333,6.33333333333333,NA,5,NA,3,5
+"Portugal","The Netherlands",2,6.66666666666667,NA,6,NA,0,0
+"Portugal","Turkey",2.66666666666667,6.33333333333333,NA,0,NA,8,0
+"Portugal","United Kingdom",0.666666666666667,6.35000000000002,NA,2,NA,0,0
+"Russia","Bosnia & Herzegovina",0,5.51250000000002,NA,0,0,0,0
+"Russia","Greece",5.25,5.5,NA,5,8,1,7
+"Russia","Lithuania",4.66666666666667,6,NA,10,4,0,NA
+"Russia","Poland",0,6,NA,0,NA,0,0
+"Russia","Portugal",0,7,NA,0,NA,0,NA
+"Russia","Slovenia",1.33333333333333,6.66666666666667,NA,4,0,0,NA
+"Slovenia","Bosnia & Herzegovina",4.75,5.5,NA,7,2,0,10
+"Slovenia","Croatia",7.5,5.51250000000002,NA,5,12,8,5
+"Slovenia","Denmark",5,7.5,NA,10,0,NA,NA
+"Slovenia","Estonia",6,6.33333333333333,NA,12,6,0,NA
+"Slovenia","France",2.25,6,NA,6,3,0,0
+"Slovenia","Germany",0.75,5.75,NA,0,0,0,3
+"Slovenia","Greece",3.5,5.75,NA,8,0,0,6
+"Slovenia","Iceland",1.33333333333333,6.01666666666669,NA,0,NA,4,0
+"Slovenia","Ireland",0.666666666666667,6,NA,0,NA,2,0
+"Slovenia","Israel",0,6.33333333333333,NA,0,0,0,NA
+"Slovenia","Latvia",2.5,7.5,NA,0,5,NA,NA
+"Slovenia","Lithuania",0.666666666666667,6.66666666666667,NA,2,0,0,NA
+"Slovenia","Malta",2.5,5.76250000000002,NA,0,10,0,0
+"Slovenia","Norway",1.66666666666667,6.33333333333333,NA,0,NA,5,0
+"Slovenia","Poland",1,6.33333333333333,NA,3,NA,0,0
+"Slovenia","Portugal",0,7.5,NA,0,NA,0,NA
+"Slovenia","Russia",3,6,NA,0,0,12,0
+"Slovenia","Spain",0.5,6.25,NA,1,0,1,0
+"Slovenia","Sweden",3.75,5.75,NA,0,7,6,2
+"Slovenia","The Netherlands",1.33333333333333,6,NA,4,NA,0,0
+"Slovenia","Turkey",2.5,6,NA,0,0,10,0
+"Slovenia","United Kingdom",2,6,NA,0,8,0,0
+"Spain","Bosnia & Herzegovina",0.75,6,NA,0,3,0,0
+"Spain","Greece",4.75,5.75,NA,12,0,0,7
+"Spain","Lithuania",0,6.66666666666667,NA,0,0,0,NA
+"Spain","Poland",2,6.35000000000002,NA,0,NA,5,1
+"Spain","Portugal",4,7.5,NA,6,NA,2,NA
+"Spain","Slovenia",3,6.33333333333333,NA,2,7,0,NA
+"Sweden","Bosnia & Herzegovina",4.5,5.51250000000002,NA,4,6,0,8
+"Sweden","Greece",4,5.76250000000002,NA,12,0,0,4
+"Sweden","Lithuania",0.333333333333333,6.33333333333333,NA,1,0,0,NA
+"Sweden","Poland",2,6,NA,2,NA,3,1
+"Sweden","Portugal",0,7.5,NA,0,NA,0,NA
+"Sweden","Slovenia",2.33333333333333,6.33333333333333,NA,7,0,0,NA
+"The Netherlands","Bosnia & Herzegovina",0.666666666666667,6.33333333333333,NA,0,NA,0,2
+"The Netherlands","Greece",4,6.66666666666667,NA,6,NA,0,6
+"The Netherlands","Lithuania",2.5,7,NA,5,NA,0,NA
+"The Netherlands","Poland",1.33333333333333,6.66666666666667,NA,0,NA,4,0
+"The Netherlands","Portugal",0,7.02500000000003,NA,0,NA,0,NA
+"The Netherlands","Slovenia",2,7.5,NA,4,NA,0,NA
+"Turkey","Bosnia & Herzegovina",4.75,6,NA,0,0,12,7
+"Turkey","Greece",4.75,5.75,NA,5,0,4,10
+"Turkey","Lithuania",0,6,NA,0,0,0,NA
+"Turkey","Poland",0,6.66666666666667,NA,0,NA,0,0
+"Turkey","Portugal",0,6.5,NA,0,NA,0,NA
+"Turkey","Slovenia",0,6.66666666666667,NA,0,0,0,NA
+"United Kingdom","Bosnia & Herzegovina",0,5.75,NA,0,0,0,0
+"United Kingdom","Greece",4.75,5.5,NA,7,0,0,12
+"United Kingdom","Lithuania",1.33333333333333,6.35000000000002,NA,4,0,0,NA
+"United Kingdom","Poland",0.666666666666667,6,NA,0,NA,2,0
+"United Kingdom","Portugal",0,7.5,NA,0,NA,0,NA
+"United Kingdom","Slovenia",2,6.33333333333333,NA,0,6,0,NA
+"Austria","Bosnia & Herzegovina",7,6.33333333333333,NA,NA,7,7,7
+"Austria","Greece",0.666666666666667,6,NA,NA,0,0,2
+"Austria","Lithuania",0,7,NA,NA,0,0,NA
+"Austria","Slovenia",1,7,NA,NA,2,0,NA
+"Belgium","Bosnia & Herzegovina",0,6.33333333333333,NA,NA,0,0,0
+"Belgium","Greece",2.66666666666667,6.33333333333333,NA,NA,0,0,8
+"Belgium","Lithuania",0,7,NA,NA,0,0,NA
+"Belgium","Slovenia",0,7,NA,NA,0,0,NA
+"Bosnia & Herzegovina","Austria",1.66666666666667,6,NA,NA,0,5,0
+"Bosnia & Herzegovina","Belgium",3.33333333333333,6.66666666666667,NA,NA,0,10,0
+"Bosnia & Herzegovina","Cyprus",0,6.33333333333333,NA,NA,0,0,0
+"Bosnia & Herzegovina","F.Y.R. Macedonia",4,7.52500000000003,NA,NA,0,NA,8
+"Bosnia & Herzegovina","Finland",3,10,NA,NA,3,NA,NA
+"Bosnia & Herzegovina","Romania",2.33333333333333,6.33333333333333,NA,NA,0,7,0
+"Bosnia & Herzegovina","Switzerland",0,10,NA,NA,0,NA,NA
+"Cyprus","Bosnia & Herzegovina",0,6.33333333333333,NA,NA,0,0,0
+"Cyprus","Greece",12,6.66666666666667,NA,NA,12,12,12
+"Cyprus","Lithuania",0,7,NA,NA,0,0,NA
+"Cyprus","Slovenia",0,7.5,NA,NA,0,0,NA
+"F.Y.R. Macedonia","Bosnia & Herzegovina",3.5,7.5,NA,NA,3,NA,4
+"F.Y.R. Macedonia","Greece",3.5,7,NA,NA,0,NA,7
+"F.Y.R. Macedonia","Lithuania",0,10,NA,NA,0,NA,NA
+"F.Y.R. Macedonia","Slovenia",2,12,NA,NA,2,NA,NA
+"Finland","Bosnia & Herzegovina",0,7.5,NA,NA,0,NA,0
+"Finland","Greece",3,7.52500000000003,NA,NA,0,NA,6
+"Finland","Lithuania",0,12,NA,NA,0,NA,NA
+"Finland","Slovenia",0,10,NA,NA,0,NA,NA
+"Greece","Austria",2.33333333333333,6.33333333333333,NA,NA,0,2,5
+"Greece","Belgium",2.66666666666667,6,NA,NA,0,8,0
+"Greece","Cyprus",12,6.35000000000002,NA,NA,12,12,12
+"Greece","F.Y.R. Macedonia",0,6.52500000000003,NA,NA,0,NA,0
+"Greece","Finland",0,10,NA,NA,0,NA,NA
+"Greece","Romania",4,6.33333333333333,NA,NA,8,4,0
+"Greece","Switzerland",0,10,NA,NA,0,NA,NA
+"Lithuania","Austria",0,6.52500000000003,NA,NA,0,NA,0
+"Lithuania","Belgium",1,7,NA,NA,2,NA,0
+"Lithuania","Cyprus",4.5,7,NA,NA,4,NA,5
+"Lithuania","F.Y.R. Macedonia",0,7.02500000000003,NA,NA,0,NA,0
+"Lithuania","Finland",0,10,NA,NA,0,NA,NA
+"Lithuania","Romania",0,7,NA,NA,0,NA,0
+"Lithuania","Switzerland",0,10,NA,NA,0,NA,NA
+"Romania","Bosnia & Herzegovina",0,6.33333333333333,NA,NA,0,0,0
+"Romania","Greece",6.66666666666667,6,NA,NA,6,2,12
+"Romania","Lithuania",0,7.5,NA,NA,0,0,NA
+"Romania","Slovenia",0,7,NA,NA,0,0,NA
+"Slovenia","Austria",2.33333333333333,6.33333333333333,NA,NA,0,7,0
+"Slovenia","Belgium",1,6.66666666666667,NA,NA,0,3,0
+"Slovenia","Cyprus",1.66666666666667,6.33333333333333,NA,NA,4,0,1
+"Slovenia","F.Y.R. Macedonia",3.5,7,NA,NA,0,NA,7
+"Slovenia","Finland",0,10,NA,NA,0,NA,NA
+"Slovenia","Romania",0,6.33333333333333,NA,NA,0,0,0
+"Slovenia","Switzerland",1,10,NA,NA,1,NA,NA
+"Switzerland","Bosnia & Herzegovina",2.5,7.5,NA,NA,0,NA,5
+"Switzerland","Greece",2,7,NA,NA,0,NA,4
+"Switzerland","Lithuania",0,12,NA,NA,0,NA,NA
+"Switzerland","Slovenia",2,10,NA,NA,2,NA,NA
+"Austria","Poland",5,7,NA,NA,NA,10,0
+"Austria","Portugal",0,10,NA,NA,NA,0,NA
+"Austria","Ukraine",2,7.5,NA,NA,NA,0,4
+"Belgium","Poland",2.5,6.5,NA,NA,NA,5,0
+"Belgium","Portugal",0,10,NA,NA,NA,0,NA
+"Belgium","Ukraine",2.5,7,NA,NA,NA,0,5
+"Bosnia & Herzegovina","Ukraine",3,7,NA,NA,NA,0,6
+"Croatia","Ukraine",4,6.52500000000003,NA,NA,NA,0,8
+"Cyprus","Poland",1,8,NA,NA,NA,0,2
+"Cyprus","Portugal",0,10,NA,NA,NA,0,NA
+"Cyprus","Ukraine",4,7,NA,NA,NA,0,8
+"Estonia","Ukraine",7.5,6.5,NA,NA,NA,3,12
+"France","Ukraine",1,7,NA,NA,NA,0,2
+"Germany","Ukraine",3,6.5,NA,NA,NA,0,6
+"Greece","Ukraine",3.5,7,NA,NA,NA,0,7
+"Iceland","Ukraine",6,7,NA,NA,NA,0,12
+"Ireland","Ukraine",3.5,6.52500000000003,NA,NA,NA,0,7
+"Israel","Ukraine",8,7,NA,NA,NA,4,12
+"Latvia","Ukraine",8.5,7.5,NA,NA,NA,5,12
+"Malta","Ukraine",4,7,NA,NA,NA,0,8
+"Norway","Ukraine",3.5,7,NA,NA,NA,0,7
+"Poland","Austria",0,7,NA,NA,NA,0,0
+"Poland","Belgium",6,7,NA,NA,NA,12,0
+"Poland","Cyprus",2,7.5,NA,NA,NA,0,4
+"Poland","Romania",4,7,NA,NA,NA,8,0
+"Poland","Ukraine",11,7,NA,NA,NA,10,12
+"Portugal","Austria",5,7.5,NA,NA,NA,10,0
+"Portugal","Belgium",3,8,NA,NA,NA,6,0
+"Portugal","Cyprus",1.5,6.52500000000003,NA,NA,NA,0,3
+"Portugal","Romania",2,7.5,NA,NA,NA,0,4
+"Portugal","Ukraine",5,7,NA,NA,NA,0,10
+"Romania","Poland",2,7,NA,NA,NA,4,0
+"Romania","Portugal",0,10,NA,NA,NA,0,NA
+"Romania","Ukraine",3,7,NA,NA,NA,0,6
+"Russia","Ukraine",10,7,NA,NA,NA,8,12
+"Slovenia","Ukraine",4,6.52500000000003,NA,NA,NA,0,8
+"Spain","Ukraine",4,7.5,NA,NA,NA,0,8
+"Sweden","Ukraine",5,7.5,NA,NA,NA,0,10
+"The Netherlands","Ukraine",3.5,7.5,NA,NA,NA,0,7
+"Turkey","Ukraine",6,7,NA,NA,NA,0,12
+"Ukraine","Austria",0,7.5,NA,NA,NA,0,0
+"Ukraine","Belgium",5,6.52500000000003,NA,NA,NA,10,0
+"Ukraine","Bosnia & Herzegovina",0,7.5,NA,NA,NA,0,0
+"Ukraine","Croatia",3.5,7,NA,NA,NA,0,7
+"Ukraine","Cyprus",2,7.5,NA,NA,NA,0,4
+"Ukraine","Estonia",0,10,NA,NA,NA,0,NA
+"Ukraine","France",0,7.5,NA,NA,NA,0,0
+"Ukraine","Germany",0,7,NA,NA,NA,0,0
+"Ukraine","Greece",4,7.5,NA,NA,NA,0,8
+"Ukraine","Iceland",2,6.5,NA,NA,NA,4,0
+"Ukraine","Ireland",0.5,7.02500000000003,NA,NA,NA,1,0
+"Ukraine","Israel",0,10,NA,NA,NA,0,NA
+"Ukraine","Lithuania",0,10,NA,NA,NA,0,NA
+"Ukraine","Malta",0.5,7,NA,NA,NA,0,1
+"Ukraine","Norway",3.5,7.5,NA,NA,NA,7,0
+"Ukraine","Poland",6.5,7,NA,NA,NA,8,5
+"Ukraine","Portugal",3,10,NA,NA,NA,3,NA
+"Ukraine","Romania",3,7.5,NA,NA,NA,6,0
+"Ukraine","Russia",11,7,NA,NA,NA,12,10
+"Ukraine","Slovenia",0,10,NA,NA,NA,0,NA
+"Ukraine","Spain",0,7,NA,NA,NA,0,0
+"Ukraine","Sweden",3.5,7,NA,NA,NA,5,2
+"Ukraine","The Netherlands",0,7,NA,NA,NA,0,0
+"Ukraine","Turkey",4,7,NA,NA,NA,2,6
+"Ukraine","United Kingdom",0,7,NA,NA,NA,0,0
+"United Kingdom","Ukraine",2.5,7.5,NA,NA,NA,0,5
+"Albania","Austria",0,10,NA,NA,NA,NA,0
+"Albania","Belgium",0,12,NA,NA,NA,NA,0
+"Albania","Bosnia & Herzegovina",10,10,NA,NA,NA,NA,10
+"Albania","Croatia",0,12,NA,NA,NA,NA,0
+"Albania","Cyprus",0,10.1000000000001,NA,NA,NA,NA,0
+"Albania","F.Y.R. Macedonia",6,10,NA,NA,NA,NA,6
+"Albania","France",1,12,NA,NA,NA,NA,1
+"Albania","Germany",2,10,NA,NA,NA,NA,2
+"Albania","Greece",12,10,NA,NA,NA,NA,12
+"Albania","Iceland",0,10,NA,NA,NA,NA,0
+"Albania","Ireland",0,12,NA,NA,NA,NA,0
+"Albania","Malta",3,12,NA,NA,NA,NA,3
+"Albania","Norway",0,10,NA,NA,NA,NA,0
+"Albania","Poland",0,10,NA,NA,NA,NA,0
+"Albania","Romania",0,12,NA,NA,NA,NA,0
+"Albania","Russia",0,10,NA,NA,NA,NA,0
+"Albania","Serbia & Montenegro",7,10,NA,NA,NA,NA,7
+"Albania","Spain",0,10,NA,NA,NA,NA,0
+"Albania","Sweden",4,12,NA,NA,NA,NA,4
+"Albania","The Netherlands",0,10,NA,NA,NA,NA,0
+"Albania","Turkey",8,10,NA,NA,NA,NA,8
+"Albania","Ukraine",5,10,NA,NA,NA,NA,5
+"Albania","United Kingdom",0,10,NA,NA,NA,NA,0
+"Austria","Albania",5,10,NA,NA,NA,NA,5
+"Austria","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Belgium","Albania",1,10,NA,NA,NA,NA,1
+"Belgium","Serbia & Montenegro",3,10.1000000000001,NA,NA,NA,NA,3
+"Bosnia & Herzegovina","Albania",4,12,NA,NA,NA,NA,4
+"Bosnia & Herzegovina","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Croatia","Albania",6,10,NA,NA,NA,NA,6
+"Croatia","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Cyprus","Albania",0,10,NA,NA,NA,NA,0
+"Cyprus","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Denmark","Albania",4,10,NA,NA,NA,NA,4
+"Denmark","Serbia & Montenegro",7,10,NA,NA,NA,NA,7
+"Denmark","Ukraine",5,10,NA,NA,NA,NA,5
+"Estonia","Albania",0,10,NA,NA,NA,NA,0
+"Estonia","Serbia & Montenegro",1,10.1000000000001,NA,NA,NA,NA,1
+"F.Y.R. Macedonia","Albania",12,10,NA,NA,NA,NA,12
+"F.Y.R. Macedonia","Poland",0,12,NA,NA,NA,NA,0
+"F.Y.R. Macedonia","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"F.Y.R. Macedonia","Ukraine",8,10,NA,NA,NA,NA,8
+"Finland","Albania",3,12,NA,NA,NA,NA,3
+"Finland","Poland",0,10.1000000000001,NA,NA,NA,NA,0
+"Finland","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Finland","Ukraine",8,10.1000000000001,NA,NA,NA,NA,8
+"France","Albania",1,10,NA,NA,NA,NA,1
+"France","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Germany","Albania",5,10,NA,NA,NA,NA,5
+"Germany","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Greece","Albania",10,10,NA,NA,NA,NA,10
+"Greece","Serbia & Montenegro",8,10,NA,NA,NA,NA,8
+"Iceland","Albania",4,10,NA,NA,NA,NA,4
+"Iceland","Serbia & Montenegro",7,10,NA,NA,NA,NA,7
+"Ireland","Albania",2,10,NA,NA,NA,NA,2
+"Ireland","Serbia & Montenegro",3,10,NA,NA,NA,NA,3
+"Israel","Albania",0,10,NA,NA,NA,NA,0
+"Israel","Serbia & Montenegro",7,10,NA,NA,NA,NA,7
+"Latvia","Albania",1,10.1000000000001,NA,NA,NA,NA,1
+"Latvia","Serbia & Montenegro",5,10,NA,NA,NA,NA,5
+"Lithuania","Albania",0,10.1000000000001,NA,NA,NA,NA,0
+"Lithuania","Serbia & Montenegro",2,10,NA,NA,NA,NA,2
+"Lithuania","Ukraine",12,10,NA,NA,NA,NA,12
+"Malta","Albania",10,10,NA,NA,NA,NA,10
+"Malta","Serbia & Montenegro",6,10,NA,NA,NA,NA,6
+"Norway","Albania",3,12,NA,NA,NA,NA,3
+"Norway","Serbia & Montenegro",6,10,NA,NA,NA,NA,6
+"Poland","Albania",0,10,NA,NA,NA,NA,0
+"Poland","F.Y.R. Macedonia",0,10,NA,NA,NA,NA,0
+"Poland","Serbia & Montenegro",5,10.1000000000001,NA,NA,NA,NA,5
+"Portugal","Albania",0,10,NA,NA,NA,NA,0
+"Portugal","F.Y.R. Macedonia",0,10,NA,NA,NA,NA,0
+"Portugal","Serbia & Montenegro",7,10,NA,NA,NA,NA,7
+"Romania","Albania",1,10,NA,NA,NA,NA,1
+"Romania","Serbia & Montenegro",8,10,NA,NA,NA,NA,8
+"Russia","Albania",0,10,NA,NA,NA,NA,0
+"Russia","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Serbia & Montenegro","Albania",8,12,NA,NA,NA,NA,8
+"Serbia & Montenegro","Austria",0,12,NA,NA,NA,NA,0
+"Serbia & Montenegro","Belgium",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Bosnia & Herzegovina",6,10.1000000000001,NA,NA,NA,NA,6
+"Serbia & Montenegro","Croatia",5,10,NA,NA,NA,NA,5
+"Serbia & Montenegro","Cyprus",3,10,NA,NA,NA,NA,3
+"Serbia & Montenegro","F.Y.R. Macedonia",12,10,NA,NA,NA,NA,12
+"Serbia & Montenegro","France",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Germany",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Greece",7,10,NA,NA,NA,NA,7
+"Serbia & Montenegro","Iceland",0,12,NA,NA,NA,NA,0
+"Serbia & Montenegro","Ireland",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Malta",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Norway",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Poland",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Romania",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Russia",1,12,NA,NA,NA,NA,1
+"Serbia & Montenegro","Spain",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Sweden",4,10,NA,NA,NA,NA,4
+"Serbia & Montenegro","The Netherlands",0,10,NA,NA,NA,NA,0
+"Serbia & Montenegro","Turkey",2,10,NA,NA,NA,NA,2
+"Serbia & Montenegro","Ukraine",10,10,NA,NA,NA,NA,10
+"Serbia & Montenegro","United Kingdom",0,10,NA,NA,NA,NA,0
+"Slovenia","Albania",4,10,NA,NA,NA,NA,4
+"Slovenia","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Spain","Albania",0,10,NA,NA,NA,NA,0
+"Spain","Serbia & Montenegro",6,10,NA,NA,NA,NA,6
+"Sweden","Albania",7,10,NA,NA,NA,NA,7
+"Sweden","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Switzerland","Albania",7,10,NA,NA,NA,NA,7
+"Switzerland","Poland",0,10,NA,NA,NA,NA,0
+"Switzerland","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"Switzerland","Ukraine",0,10,NA,NA,NA,NA,0
+"The Netherlands","Albania",1,10,NA,NA,NA,NA,1
+"The Netherlands","Serbia & Montenegro",10,10,NA,NA,NA,NA,10
+"Turkey","Albania",6,10,NA,NA,NA,NA,6
+"Turkey","Serbia & Montenegro",8,10,NA,NA,NA,NA,8
+"Ukraine","Albania",0,10,NA,NA,NA,NA,0
+"Ukraine","F.Y.R. Macedonia",3,10,NA,NA,NA,NA,3
+"Ukraine","Serbia & Montenegro",12,10,NA,NA,NA,NA,12
+"United Kingdom","Albania",1,10,NA,NA,NA,NA,1
+"United Kingdom","Serbia & Montenegro",3,10,NA,NA,NA,NA,3

@@ -1,0 +1,22 @@
+From,To,Average,Sim.Threshold
+Bosnia & Herzegovina,Croatia,8.75,5.5
+Croatia,Bosnia & Herzegovina,6.25,5.76
+Croatia,F.Y.R. Macedonia,6.67,6
+Cyprus,Greece,12,6.35
+Denmark,Latvia,7.33,6.67
+Denmark,Sweden,7.33,6.67
+Estonia,Denmark,6.67,6.33
+Estonia,Latvia,8.5,6
+Estonia,Sweden,6.5,6
+F.Y.R. Macedonia,Romania,7.33,6.35
+Greece,Cyprus,12,6.67
+Greece,Romania,6.67,6
+Latvia,Estonia,10.67,6.33
+Romania,F.Y.R. Macedonia,8,6.33
+Romania,Russia,7.5,5.75
+Russia,Cyprus,8.25,5.75
+Russia,Estonia,8.8,5.61
+Russia,Latvia,8,5.6
+Russia,Romania,7.25,6
+Sweden,Denmark,10.5,6
+Sweden,Estonia,7.4,5.4

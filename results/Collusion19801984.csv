@@ -1,0 +1,13 @@
+From,To,Average,Sim.Threshold
+Germany,Sweden,6.6,6.2
+Germany,United Kingdom,6.8,6
+Ireland,Germany,7.75,6.5
+Ireland,Sweden,7.75,6.5
+Ireland,Switzerland,7.75,6.75
+Ireland,United Kingdom,6.75,6.5
+Sweden,Germany,7.6,6
+Switzerland,Ireland,8,6.25
+Switzerland,United Kingdom,8.2,5.81
+United Kingdom,Ireland,7.75,6.5
+United Kingdom,Sweden,7,6.2
+United Kingdom,Switzerland,6.2,6

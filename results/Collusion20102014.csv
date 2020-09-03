@@ -1,0 +1,44 @@
+From,To,Average,Sim.Threshold
+Armenia,Georgia,10.67,6
+Armenia,Russia,7.33,6
+Armenia,Ukraine,7.33,6.67
+Azerbaijan,Bosnia & Herzegovina,7.33,6.33
+Azerbaijan,Georgia,9,5.2
+Azerbaijan,Lithuania,6.4,5.2
+Azerbaijan,Malta,9.6,5
+Azerbaijan,Moldova,7,5.4
+Azerbaijan,Russia,10.4,5.2
+Azerbaijan,Ukraine,9,5.6
+Bosnia & Herzegovina,Serbia,9.67,6.02
+Denmark,Germany,5.8,5.2
+Denmark,Ireland,7.2,5.21
+Denmark,Sweden,7.2,5.2
+Georgia,Armenia,10.67,6.67
+Georgia,Azerbaijan,9.33,6.02
+Georgia,Lithuania,10.67,6
+Georgia,Russia,7,6
+Georgia,Ukraine,8.67,6.33
+Germany,Denmark,6,5.2
+Ireland,United Kingdom,7.5,5.5
+Lithuania,Georgia,8.33,6
+Malta,Azerbaijan,7,6
+Malta,United Kingdom,7.33,6.67
+Moldova,Romania,11.5,5.75
+Romania,Azerbaijan,6.2,5.2
+Romania,Moldova,11.6,5
+Russia,Armenia,8.75,5.75
+Russia,Azerbaijan,5.8,5.4
+Russia,Lithuania,6,5.2
+Russia,Moldova,7.2,5.2
+Russia,Ukraine,7.2,5.4
+Serbia,Bosnia & Herzegovina,10.67,6.67
+Sweden,Denmark,10.5,6
+Sweden,Ireland,6.25,5.75
+Sweden,Romania,6.25,5.75
+Ukraine,Armenia,8,5.5
+Ukraine,Azerbaijan,9.4,5.2
+Ukraine,Georgia,7.4,5.4
+Ukraine,Moldova,9.2,5.2
+Ukraine,Russia,6.6,5.4
+Ukraine,Serbia,5.75,5.25
+United Kingdom,Ireland,5.8,5.21

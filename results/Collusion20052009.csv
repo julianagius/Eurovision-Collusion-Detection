@@ -1,0 +1,47 @@
+From,To,Average,Sim.Threshold
+Albania,F.Y.R. Macedonia,10.33,6
+Albania,Greece,9,6
+Armenia,Greece,7,5.75
+Armenia,Russia,9.75,5.75
+Armenia,Turkey,9.5,5.75
+Bosnia & Herzegovina,Croatia,11.2,5.4
+Bosnia & Herzegovina,F.Y.R. Macedonia,6.8,5.4
+Bosnia & Herzegovina,Norway,6.2,5.4
+Bosnia & Herzegovina,Sweden,7.6,5.21
+Bosnia & Herzegovina,Turkey,9.2,5.6
+Croatia,Bosnia & Herzegovina,11.5,5.5
+Croatia,F.Y.R. Macedonia,6,5.75
+Denmark,Norway,9.5,5.5
+F.Y.R. Macedonia,Bosnia & Herzegovina,7.67,6.33
+F.Y.R. Macedonia,Croatia,8,6
+Finland,Sweden,8.75,6
+Greece,Albania,10.2,5.4
+Greece,Armenia,8.5,5.75
+Greece,Romania,10,5.6
+Latvia,Lithuania,10,5.75
+Lithuania,Latvia,9,6.35
+Moldova,Romania,12,5.5
+Moldova,Ukraine,6.5,5.75
+Norway,Denmark,8.75,6
+Norway,Finland,9.25,5.75
+Norway,Latvia,7.5,6
+Norway,Sweden,8.5,5.5
+Norway,Ukraine,6.75,6
+Romania,Moldova,11,5.4
+Russia,Armenia,12,6
+Russia,Finland,6.4,5.4
+Russia,Latvia,9.4,5.4
+Russia,Lithuania,8.8,5.4
+Russia,Moldova,8.8,5.4
+Russia,Ukraine,9.2,5.2
+Sweden,Denmark,8.2,5.8
+Sweden,Finland,6.6,5.21
+Sweden,Norway,6.8,5.41
+Turkey,Albania,9,5.21
+Turkey,Bosnia & Herzegovina,8.6,5.4
+Turkey,Denmark,5.6,5.2
+Turkey,F.Y.R. Macedonia,7.4,5.4
+Turkey,Romania,6,5.4
+Ukraine,Latvia,5.4,5.2
+Ukraine,Moldova,6.8,5.6
+Ukraine,Russia,6,5.4

@@ -1,0 +1,13 @@
+"From","To","Average","Sim.Threshold"
+"Latvia","Lithuania",9.5,7
+"Armenia","Russia",9,7
+"Greece","Cyprus",10.6666666666667,6.33333333333333
+"Russia","Armenia",6.33333333333333,6
+"Lithuania","Latvia",7,6
+"Sweden","Armenia",7.4,5.2
+"Sweden","Cyprus",7,5.2
+"Cyprus","Greece",10.8,5.2
+"Sweden","Latvia",8.4,5.2
+"Sweden","Lithuania",6.4,5.2
+"Sweden","Australia",8.4,5.01000000000001
+"Australia","Sweden",9.6,4.8
